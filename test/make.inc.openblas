@@ -1,0 +1,11 @@
+CC		     = mcc
+
+OPENBLAS_DIR = /home/bsc15/bsc15784/openblas-0.2.20
+OPENBLAS_INC = $(OPENBLAS_DIR)/include
+OPENBLAS_LIB = $(OPENBLAS_DIR)/lib
+
+LIBS         = -L$(OPENBLAS_LIB) -lopenblas -lgfortran
+INC          = -I$(OPENBLAS_INC)
+
+#FLAGS   	 = -O3 -Wall --ompss --instrumentation 
+FLAGS    	 = -O3 -Wall --ompss-2  

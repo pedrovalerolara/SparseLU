@@ -1,0 +1,14 @@
+1.  In make.inc, 
+    (a) change $(SUPERLULIB) to the directory of your SuperLU OpenMP library install.
+        Ex: path/to/SuperLU_MT_3.1/lib/libsuperlu_mt_OPENMP.a
+    (b) change $(BIN) to the directory of the LASs test BIN
+        Ex: /path/to/workplan-summer-2021-internship-copy/LASs-sparse-npgetrf-and-dense-tile-pivoting/LASs-sparse-npgetrf/test/BIN
+
+2.  Run "source ./configure.sh" to load appropriate modules
+
+3.  Run "make"
+
+4.  To run a test, use "./main -p [num threads] [-slass | -superlu] < [input .rb file]"
+    where [num threads] is the number of parallel threads to spawn, [-slass | -superlu]
+    determins whether to run sLASs or SuperLU libraries, and [input .rb file] is the 
+    path to a sparse matrix stored in Rutherford-Boeing format

@@ -1,0 +1,715 @@
+File	Size	Density	Library	Runtime
+./1138_bus.rb	1138	0.002005	lass	0.011592
+./aft01.rb	8205	0.000994	lass	0.018622
+./ak2010.rb	45292	0.000053	lass	
+./Alemdar.rb	6245	0.000626	lass	0.066422
+./astro-ph.rb	16706	0.000434	lass	
+./bcsstk08.rb	1074	0.006083	lass	0.007296
+./bcsstk09.rb	1083	0.008321	lass	0.012186
+./bcsstk10.rb	1086	0.009817	lass	0.014172
+./bcsstk11.rb	1473	0.008230	lass	0.020028
+./bcsstk12.rb	1473	0.008230	lass	0.022967
+./bcsstk13.rb	2003	0.010704	lass	0.026549
+./bcsstk14.rb	1806	0.010004	lass	0.008427
+./bcsstk15.rb	3948	0.003906	lass	0.030303
+./bcsstk16.rb	4884	0.006189	lass	0.020555
+./bcsstk17.rb	10974	0.001825	lass	0.092733
+./bcsstk18.rb	11948	0.000564	lass	0.064152
+./bcsstk21.rb	3600	0.001165	lass	0.012429
+./bcsstk23.rb	3134	0.002459	lass	0.019077
+./bcsstk24.rb	3562	0.006442	lass	0.064548
+./bcsstk25.rb	15439	0.000561	lass	0.052250
+./bcsstk26.rb	1922	0.004366	lass	0.020140
+./bcsstk28.rb	4410	0.005744	lass	0.018982
+./bcsstk35.rb	30237	0.000810	lass	0.546081
+./bcsstk36.rb	23052	0.001097	lass	0.501083
+./bcsstk37.rb	25503	0.000897	lass	0.677006
+./bcsstk38.rb	8032	0.002817	lass	0.038534
+./bcsstk39.rb	46772	0.000488	lass	
+./bcsstm08.rb	1074	0.000931	lass	0.007342
+./bcsstm09.rb	1083	0.000923	lass	0.006617
+./bcsstm10.rb	1086	0.009826	lass	0.011904
+./bcsstm11.rb	1473	0.000679	lass	0.007991
+./bcsstm12.rb	1473	0.004870	lass	0.022779
+./bcsstm13.rb	2003	0.002984	lass	0.019056
+./bcsstm21.rb	3600	0.000278	lass	0.013461
+./bcsstm23.rb	3134	0.000319	lass	0.007462
+./bcsstm24.rb	3562	0.000281	lass	0.008354
+./bcsstm25.rb	15439	0.000065	lass	0.002129
+./bcsstm26.rb	1922	0.000520	lass	0.004293
+./bcsstm35.rb	30237	0.000020	lass	0.005189
+./bcsstm36.rb	23052	0.000313	lass	0.521583
+./bcsstm37.rb	25503	0.000023	lass	0.013520
+./bcsstm38.rb	8032	0.000122	lass	0.012192
+./bcsstm39.rb	46772	0.000021	lass	
+./benzene.rb	8219	0.001857	lass	0.034205
+./bloweybq.rb	10001	0.000400	lass	0.016396
+./bodyy4.rb	17546	0.000227	lass	1.068810
+./bodyy5.rb	18589	0.000214	lass	1.636907
+./bodyy6.rb	19366	0.000205	lass	3.271358
+./bundle1.rb	10581	0.003490	lass	0.528204
+./c-18.rb	2169	0.001840	lass	0.015155
+./c-19.rb	2327	0.002229	lass	0.009412
+./c-20.rb	2921	0.001501	lass	0.018144
+./c-21.rb	3509	0.001448	lass	0.029185
+./c-22.rb	3792	0.001136	lass	0.033063
+./c-23.rb	3969	0.001112	lass	0.024836
+./c-24.rb	4119	0.001173	lass	0.009725
+./c-25.rb	3797	0.001853	lass	0.032593
+./c-26.rb	4307	0.001047	lass	0.042868
+./c-27.rb	4563	0.000863	lass	0.042592
+./c-28.rb	4598	0.000832	lass	0.048910
+./c-29.rb	5033	0.000963	lass	0.041450
+./c-30.rb	5321	0.001254	lass	0.051885
+./c-31.rb	5339	0.001472	lass	0.051400
+./c-32.rb	5975	0.000847	lass	0.032261
+./c-33.rb	6317	0.000782	lass	0.058878
+./c-34.rb	6611	0.000812	lass	0.085042
+./c-35.rb	6537	0.000812	lass	0.045966
+./c-36.rb	7479	0.000656	lass	0.040117
+./c-37.rb	8204	0.000616	lass	0.032806
+./c-38.rb	8127	0.000650	lass	0.119732
+./c-39.rb	9271	0.000850	lass	0.084541
+./c-40.rb	9941	0.000463	lass	0.178474
+./c-41.rb	9769	0.000584	lass	0.072091
+./c-42.rb	10471	0.000551	lass	0.221036
+./c-43.rb	11125	0.000545	lass	0.150349
+./c-44.rb	10728	0.000416	lass	0.232636
+./c-45.rb	13206	0.000538	lass	0.302741
+./c-46.rb	14913	0.000327	lass	0.188057
+./c-47.rb	15343	0.000482	lass	0.544365
+./c-48.rb	18354	0.000274	lass	0.606935
+./c-49.rb	21132	0.000199	lass	
+./c-50.rb	22401	0.000215	lass	0.799682
+./c-51.rb	23196	0.000210	lass	0.842994
+./c-52.rb	23948	0.000198	lass	0.861846
+./c-53.rb	30235	0.000220	lass	0.967904
+./c-54.rb	31793	0.000209	lass	2.595948
+./c-56.rb	35910	0.000162	lass	
+./c-57.rb	37833	0.000155	lass	4.588545
+./c-60.rb	43640	0.000090	lass	
+./c-61.rb	43618	0.000093	lass	
+./c-62.rb	41731	0.000173	lass	
+./c-65.rb	48066	0.000088	lass	
+./c-66b.rb	49989	0.000110	lass	
+./c-66.rb	49989	0.000110	lass	
+./cbuckle_G.rb	13681	0.001409	lass	
+./cbuckle.rb	13681	0.001844	lass	0.084298
+./Chem97ZtZ.rb	2541	0.000767	lass	0.030857
+./cond-mat-2003.rb	31163	0.000124	lass	
+./cond-mat-2005.rb	40421	0.000108	lass	
+./cond-mat.rb	16726	0.000170	lass	
+./crystk01.rb	4875	0.006749	lass	0.012736
+./crystk02.rb	13965	0.002519	lass	0.073521
+./crystk03.rb	24696	0.001456	lass	0.096307
+./crystm01.rb	4875	0.002319	lass	0.018421
+./crystm02.rb	13965	0.000864	lass	0.076312
+./crystm03.rb	24696	0.000499	lass	0.096588
+./CurlCurl_0.rb	11083	0.000506	lass	0.053387
+./cvxbqp1.rb	50000	0.000080	lass	
+./cyl6.rb	13681	0.001945	lass	0.084658
+./de2010.rb	24115	0.000100	lass	1.040796
+./Dubcova1.rb	16129	0.000517	lass	
+./ex10hs.rb	2548	0.004610	lass	0.046957
+./ex10.rb	2410	0.004928	lass	0.028925
+./ex12.rb	3973	0.002667	lass	0.027560
+./ex13.rb	2568	0.005929	lass	0.013481
+./ex14.rb	3251	0.003313	lass	0.034349
+./ex15.rb	6867	0.001119	lass	0.122398
+./ex32.rb	1159	0.004654	lass	0.012118
+./ex33.rb	1733	0.003983	lass	0.025203
+./ex3.rb	1821	0.008219	lass	0.013727
+./ex4.rb	1601	0.006613	lass	0.012318
+./ex9.rb	3363	0.004546	lass	0.021529
+	lass	
+	lass	
+./filter2D_E.rb	1668	0.000600	lass	0.006415
+./filter2D.rb	1668	0.002232	lass	0.021496
+	lass	
+	lass	
+./flowmeter0_E.rb	9669	0.000103	lass	0.002430
+./flowmeter0.rb	9669	0.000412	lass	0.079822
+./fv1.rb	9604	0.000514	lass	0.071754
+./fv2.rb	9801	0.000504	lass	0.056342
+./fv3.rb	9801	0.000504	lass	0.050706
+./geom.rb	7343	0.000221	lass	0.201683
+./gridgena.rb	48962	0.000117	lass	
+	lass	
+	lass	
+./gyro_k.rb	17361	0.001723	lass	0.313997
+./gyro_m.rb	17361	0.000594	lass	0.321997
+./gyro_M.rb	17361	0.000594	lass	0.327955
+./gyro.rb	17361	0.001723	lass	0.325896
+./hep-th.rb	8361	0.000225	lass	0.237812
+./hi2010.rb	25016	0.000099	lass	0.734111
+./jnlbrng1.rb	40000	0.000075	lass	0.076914
+./Kuu.rb	7102	0.003443	lass	0.071573
+	lass	
+	lass	
+./LF10000_E.rb	19998	0.000150	lass	0.030355
+./LF10000_M.rb	19998	0.000150	lass	0.037590
+./LF10000.rb	19998	0.000150	lass	0.029759
+	lass	
+	lass	
+./LFAT5000_E.rb	19994	0.000125	lass	0.026271
+./LFAT5000_M.rb	19994	0.000125	lass	0.030651
+./LFAT5000.rb	19994	0.000125	lass	0.029849
+./m3plates.rb	11107	0.000054	lass	0.000949
+./meg4.rb	5860	0.000767	lass	0.063303
+./mhd3200b.rb	3200	0.001051	lass	0.028627
+./mhd4800b.rb	4800	0.000701	lass	0.079463
+./minsurfo.rb	40806	0.000073	lass	0.130147
+./MISKnowledgeMap.rb	2427	0.004840	lass	0.016506
+./mouse_gene.rb	45101	0.007132	lass	
+./msc01050.rb	1050	0.013699	lass	0.006208
+./msc01440.rb	1440	0.011504	lass	0.020492
+./msc04515.rb	4515	0.002507	lass	0.051557
+./msc10848.rb	10848	0.005271	lass	0.226900
+./msc23052.rb	23052	0.001108	lass	
+./Muu.rb	7102	0.001757	lass	0.078498
+./Na5.rb	5832	0.004579	lass	0.054049
+./nasa1824.rb	1824	0.006167	lass	0.009633
+./nasa2146.rb	2146	0.008077	lass	0.021519
+./nasa2910.rb	2910	0.010463	lass	0.016908
+./nasa4704.rb	4704	0.002473	lass	0.030068
+./nd12k.rb	36000	0.005500	lass	
+./nd6k.rb	18000	0.010672	lass	
+./nemeth01.rb	9506	0.004064	lass	0.023100
+./nemeth02.rb	9506	0.002237	lass	0.028565
+./nemeth03.rb	9506	0.002237	lass	0.031290
+./nemeth04.rb	9506	0.002237	lass	0.039141
+./nemeth05.rb	9506	0.002237	lass	0.021429
+./nemeth06.rb	9506	0.002237	lass	0.021421
+./nemeth07.rb	9506	0.002237	lass	0.022415
+./nemeth08.rb	9506	0.002237	lass	0.025797
+./nemeth09.rb	9506	0.002241	lass	0.024522
+./nemeth10.rb	9506	0.002274	lass	0.035326
+./nemeth11.rb	9506	0.002312	lass	0.023189
+./nemeth12.rb	9506	0.002525	lass	0.015589
+./nemeth13.rb	9506	0.002678	lass	0.029007
+./nemeth14.rb	9506	0.002798	lass	0.038604
+./nemeth15.rb	9506	0.003039	lass	0.020037
+./nemeth16.rb	9506	0.003301	lass	0.031461
+./nemeth17.rb	9506	0.003536	lass	0.027926
+./nemeth18.rb	9506	0.003899	lass	0.034860
+./nemeth19.rb	9506	0.004580	lass	0.024362
+./nemeth20.rb	9506	0.005430	lass	0.032055
+./nemeth21.rb	9506	0.006547	lass	0.022946
+./nemeth22.rb	9506	0.007571	lass	0.027401
+./nemeth23.rb	9506	0.008390	lass	0.026287
+./nemeth24.rb	9506	0.008389	lass	0.023499
+./nemeth25.rb	9506	0.008417	lass	0.030665
+./nemeth26.rb	9506	0.008417	lass	0.028608
+./netscience.rb	1589	0.001086	lass	0.009871
+./nh2010.rb	48837	0.000049	lass	
+./nopoly.rb	10774	0.000352	lass	0.338850
+./obstclae.rb	40000	0.000074	lass	0.079906
+./olafu.rb	16146	0.001978	lass	0.021845
+./OPF_10000.rb	43887	0.000133	lass	
+./OPF_3754.rb	15435	0.000365	lass	
+./OPF_6000.rb	29902	0.000186	lass	
+./pdb1HYS.rb	36417	0.001652	lass	
+./plat1919.rb	1919	0.004660	lass	0.016305
+./plbuckle_G.rb	1282	0.004406	lass	0.002942
+./plbuckle.rb	1282	0.009713	lass	0.005890
+./Pres_Poisson.rb	14822	0.001663	lass	0.601464
+./raefsky4.rb	19779	0.001723	lass	0.261170
+	lass	
+	lass	
+./rail_1357_E.rb	1357	0.002811	lass	0.013351
+./rail_1357.rb	1357	0.002808	lass	0.010941
+	lass	
+	lass	
+./rail_20209_E.rb	20209	0.000195	lass	6.908888
+./rail_20209.rb	20209	0.000195	lass	
+	lass	
+	lass	
+./rail_5177_E.rb	5177	0.000754	lass	0.032411
+./rail_5177.rb	5177	0.000753	lass	0.041266
+./Reuters911_Day_01.rb	13332	0.000052	lass	
+./Reuters911_Day_02.rb	13332	0.000078	lass	
+./Reuters911_Day_03.rb	13332	0.000042	lass	
+./Reuters911_Day_04.rb	13332	0.000035	lass	
+./Reuters911_Day_05.rb	13332	0.000050	lass	
+./Reuters911_Day_06.rb	13332	0.000045	lass	
+./Reuters911_Day_07.rb	13332	0.000026	lass	
+./Reuters911_Day_08.rb	13332	0.000019	lass	
+./Reuters911_Day_09.rb	13332	0.000022	lass	
+./Reuters911_Day_10.rb	13332	0.000026	lass	0.283220
+./Reuters911_Day_11.rb	13332	0.000029	lass	
+./Reuters911_Day_12.rb	13332	0.000016	lass	
+./Reuters911_Day_13.rb	13332	0.000012	lass	0.326300
+./Reuters911_Day_14.rb	13332	0.000015	lass	1.120575
+./Reuters911_Day_15.rb	13332	0.000032	lass	
+./Reuters911_Day_16.rb	13332	0.000028	lass	
+./Reuters911_Day_17.rb	13332	0.000021	lass	
+./Reuters911_Day_18.rb	13332	0.000019	lass	1.442059
+./Reuters911_Day_19.rb	13332	0.000011	lass	
+./Reuters911_Day_20.rb	13332	0.000017	lass	
+./Reuters911_Day_21.rb	13332	0.000020	lass	
+./Reuters911_Day_22.rb	13332	0.000020	lass	
+./Reuters911_Day_23.rb	13332	0.000017	lass	
+./Reuters911_Day_24.rb	13332	0.000013	lass	
+./Reuters911_Day_25.rb	13332	0.000022	lass	0.221658
+./Reuters911_Day_26.rb	13332	0.000018	lass	0.330406
+./Reuters911_Day_27.rb	13332	0.000020	lass	0.739994
+./Reuters911_Day_28.rb	13332	0.000021	lass	1.182056
+./Reuters911_Day_29.rb	13332	0.000016	lass	0.643148
+./Reuters911_Day_30.rb	13332	0.000017	lass	
+./Reuters911_Day_31.rb	13332	0.000023	lass	
+./Reuters911_Day_32.rb	13332	0.000018	lass	
+./Reuters911_Day_33.rb	13332	0.000017	lass	
+./Reuters911_Day_34.rb	13332	0.000017	lass	1.094924
+./Reuters911_Day_35.rb	13332	0.000020	lass	0.248947
+./Reuters911_Day_36.rb	13332	0.000022	lass	0.535907
+./Reuters911_Day_37.rb	13332	0.000021	lass	
+./Reuters911_Day_38.rb	13332	0.000017	lass	0.352917
+./Reuters911_Day_39.rb	13332	0.000020	lass	0.253194
+./Reuters911_Day_40.rb	13332	0.000018	lass	0.958911
+./Reuters911_Day_41.rb	13332	0.000016	lass	
+./Reuters911_Day_42.rb	13332	0.000013	lass	0.311103
+./Reuters911_Day_43.rb	13332	0.000013	lass	0.848172
+./Reuters911_Day_44.rb	13332	0.000017	lass	
+./Reuters911_Day_45.rb	13332	0.000015	lass	0.352889
+./Reuters911_Day_46.rb	13332	0.000014	lass	
+./Reuters911_Day_47.rb	13332	0.000018	lass	1.297554
+./Reuters911_Day_48.rb	13332	0.000016	lass	
+./Reuters911_Day_49.rb	13332	0.000018	lass	
+./Reuters911_Day_50.rb	13332	0.000018	lass	0.238864
+./Reuters911_Day_51.rb	13332	0.000016	lass	
+./Reuters911_Day_52.rb	13332	0.000020	lass	0.224703
+./Reuters911_Day_53.rb	13332	0.000019	lass	0.568897
+./Reuters911_Day_54.rb	13332	0.000019	lass	0.244800
+./Reuters911_Day_55.rb	13332	0.000015	lass	1.137242
+./Reuters911_Day_56.rb	13332	0.000022	lass	0.274306
+./Reuters911_Day_57.rb	13332	0.000011	lass	1.091295
+./Reuters911_Day_58.rb	13332	0.000012	lass	
+./Reuters911_Day_59.rb	13332	0.000017	lass	
+./Reuters911_Day_60.rb	13332	0.000016	lass	
+./Reuters911_Day_61.rb	13332	0.000014	lass	
+./Reuters911_Day_62.rb	13332	0.000011	lass	
+./Reuters911_Day_63.rb	13332	0.000011	lass	1.157772
+./Reuters911_Day_64.rb	13332	0.000013	lass	
+./Reuters911_Day_65.rb	13332	0.000012	lass	0.959153
+./Reuters911_Day_66.rb	13332	0.000013	lass	
+./Reuters911.rb	13332	0.000833	lass	
+./ri2010.rb	25181	0.000099	lass	7.387320
+./s1rmq4m1.rb	5489	0.004756	lass	0.049291
+./s1rmt3m1.rb	5489	0.003734	lass	0.059751
+./s2rmq4m1.rb	5489	0.004756	lass	0.066710
+./s2rmt3m1.rb	5489	0.003734	lass	0.049353
+./s3rmq4m1.rb	5489	0.004756	lass	0.061662
+./s3rmt3m1.rb	5489	0.003734	lass	0.053226
+./s3rmt3m3.rb	5357	0.003712	lass	0.210083
+./saylr4.rb	3564	0.001019	lass	0.069376
+./ship_001.rb	34920	0.001919	lass	
+./Si10H16.rb	17077	0.001531	lass	0.456520
+./Si5H12.rb	19896	0.000958	lass	0.913205
+./SiH4.rb	5041	0.003482	lass	0.043165
+./SiNa.rb	5743	0.003101	lass	0.031706
+./SiO.rb	33401	0.000606	lass	1.334087
+./smt.rb	25710	0.002858	lass	1.422974
+	lass	
+./spiral.rb	1434	0.004781	lass	0.017478
+./spmsrtls.rb	29995	0.000144	lass	0.046491
+	lass	
+./sts4098.rb	4098	0.002276	lass	0.008880
+./t2dah_a.rb	11445	0.000716	lass	0.131355
+	lass	
+	lass	
+./t2dah_e.rb	11445	0.000716	lass	0.138037
+./t2dah_E.rb	11445	0.000716	lass	0.132333
+./t2dah.rb	11445	0.000716	lass	0.148661
+./t2dal_a.rb	4257	0.001151	lass	0.052471
+./t2dal_bci_Abottom.rb	4257	0.000005	lass	0.003898
+./t2dal_bci_Aside.rb	4257	0.000002	lass	0.002799
+./t2dal_bci_Atop.rb	4257	0.000006	lass	0.003828
+	lass	
+	lass	
+./t2dal_bci_E.rb	4257	0.000235	lass	0.007232
+./t2dal_bci.rb	4257	0.001151	lass	0.055747
+	lass	
+	lass	
+./t2dal_e.rb	4257	0.000235	lass	0.009536
+./t2dal_E.rb	4257	0.000235	lass	0.008224
+./t2dal.rb	4257	0.001151	lass	0.065096
+./t3dl_a.rb	20360	0.000640	lass	0.106274
+	lass	
+	lass	
+./t3dl_e.rb	20360	0.000049	lass	0.002795
+./t3dl_E.rb	20360	0.000049	lass	0.002928
+./t3dl.rb	20360	0.000640	lass	0.119043
+./t520.rb	5563	0.004716	lass	0.080063
+./ted_B.rb	10605	0.000690	lass	0.041254
+./ted_B_unscaled.rb	10605	0.000690	lass	0.043015
+./TEM27623_M.rb	27623	0.000306	lass	0.500384
+./TEM27623.rb	27623	0.000306	lass	0.461034
+./thread.rb	29736	0.002544	lass	
+./torsion1.rb	40000	0.000074	lass	0.080731
+./Trefethen_20000b.rb	19999	0.000718	lass	1.019332
+./Trefethen_20000.rb	20000	0.000718	lass	1.099690
+./Trefethen_2000.rb	2000	0.005488	lass	0.027451
+./TSC_OPF_300.rb	9774	0.004347	lass	0.211353
+./tube2.rb	21498	0.000994	lass	1.826638
+./vanbody.rb	47072	0.000538	lass	
+./vibrobox.rb	12328	0.001168	lass	0.255595
+./vt2010.rb	32580	0.000073	lass	
+./wathen100.rb	30401	0.000272	lass	0.227599
+./wathen120.rb	36441	0.000227	lass	0.107135
+./1138_bus.rb	1138	0.002005	superlu	0.029436
+./aft01.rb	8205	0.000994	superlu	0.536731
+./ak2010.rb	45292	0.000053	superlu	
+./Alemdar.rb	6245	0.000626	superlu	0.184673
+./astro-ph.rb	16706	0.000434	superlu	
+./bcsstk08.rb	1074	0.006083	superlu	0.136579
+./bcsstk09.rb	1083	0.008321	superlu	0.105407
+./bcsstk10.rb	1086	0.009817	superlu	0.069759
+./bcsstk11.rb	1473	0.008230	superlu	0.116878
+./bcsstk12.rb	1473	0.008230	superlu	0.113569
+./bcsstk13.rb	2003	0.010704	superlu	0.740099
+./bcsstk14.rb	1806	0.010004	superlu	0.259119
+./bcsstk15.rb	3948	0.003906	superlu	1.206298
+./bcsstk16.rb	4884	0.006189	superlu	0.683130
+./bcsstk17.rb	10974	0.001825	superlu	1.684410
+./bcsstk18.rb	11948	0.000564	superlu	1.320213
+./bcsstk21.rb	3600	0.001165	superlu	0.184859
+./bcsstk23.rb	3134	0.002459	superlu	0.825280
+./bcsstk24.rb	3562	0.006442	superlu	0.654967
+./bcsstk25.rb	15439	0.000561	superlu	2.182551
+./bcsstk26.rb	1922	0.004366	superlu	0.121680
+./bcsstk28.rb	4410	0.005744	superlu	0.585309
+./bcsstk35.rb	30237	0.000810	superlu	6.552289
+./bcsstk36.rb	23052	0.001097	superlu	7.068931
+./bcsstk37.rb	25503	0.000897	superlu	6.350716
+./bcsstk38.rb	8032	0.002817	superlu	1.591354
+./bcsstk39.rb	46772	0.000488	superlu	
+./bcsstm08.rb	1074	0.000931	superlu	0.008085
+./bcsstm09.rb	1083	0.000923	superlu	0.011424
+./bcsstm10.rb	1086	0.009826	superlu	0.073495
+./bcsstm11.rb	1473	0.000679	superlu	0.015348
+./bcsstm12.rb	1473	0.004870	superlu	0.075059
+./bcsstm13.rb	2003	0.002984	superlu	
+./bcsstm21.rb	3600	0.000278	superlu	0.037608
+./bcsstm23.rb	3134	0.000319	superlu	0.033299
+./bcsstm24.rb	3562	0.000281	superlu	0.036924
+./bcsstm25.rb	15439	0.000065	superlu	0.122246
+./bcsstm26.rb	1922	0.000520	superlu	0.015780
+./bcsstm35.rb	30237	0.000020	superlu	0.233308
+./bcsstm36.rb	23052	0.000313	superlu	
+./bcsstm37.rb	25503	0.000023	superlu	0.201743
+./bcsstm38.rb	8032	0.000122	superlu	0.075994
+./bcsstm39.rb	46772	0.000021	superlu	
+./benzene.rb	8219	0.001857	superlu	13.100252
+./bloweybq.rb	10001	0.000400	superlu	0.313453
+./bodyy4.rb	17546	0.000227	superlu	0.826741
+./bodyy5.rb	18589	0.000214	superlu	0.887379
+./bodyy6.rb	19366	0.000205	superlu	0.910669
+./bundle1.rb	10581	0.003490	superlu	0.588815
+./c-18.rb	2169	0.001840	superlu	0.047594
+./c-19.rb	2327	0.002229	superlu	0.060429
+./c-20.rb	2921	0.001501	superlu	0.061171
+./c-21.rb	3509	0.001448	superlu	0.086185
+./c-22.rb	3792	0.001136	superlu	0.082281
+./c-23.rb	3969	0.001112	superlu	0.076293
+./c-24.rb	4119	0.001173	superlu	0.086439
+./c-25.rb	3797	0.001853	superlu	0.092691
+./c-26.rb	4307	0.001047	superlu	0.102982
+./c-27.rb	4563	0.000863	superlu	0.085589
+./c-28.rb	4598	0.000832	superlu	0.088878
+./c-29.rb	5033	0.000963	superlu	0.106541
+./c-30.rb	5321	0.001254	superlu	0.136580
+./c-31.rb	5339	0.001472	superlu	0.147424
+./c-32.rb	5975	0.000847	superlu	0.121054
+./c-33.rb	6317	0.000782	superlu	0.129567
+./c-34.rb	6611	0.000812	superlu	0.146733
+./c-35.rb	6537	0.000812	superlu	0.137298
+./c-36.rb	7479	0.000656	superlu	0.129757
+./c-37.rb	8204	0.000616	superlu	0.155460
+./c-38.rb	8127	0.000650	superlu	0.155904
+./c-39.rb	9271	0.000850	superlu	0.177120
+./c-40.rb	9941	0.000463	superlu	0.192989
+./c-41.rb	9769	0.000584	superlu	0.197460
+./c-42.rb	10471	0.000551	superlu	0.222113
+./c-43.rb	11125	0.000545	superlu	0.217177
+./c-44.rb	10728	0.000416	superlu	0.185324
+./c-45.rb	13206	0.000538	superlu	0.325878
+./c-46.rb	14913	0.000327	superlu	0.250355
+./c-47.rb	15343	0.000482	superlu	0.334408
+./c-48.rb	18354	0.000274	superlu	0.303673
+./c-49.rb	21132	0.000199	superlu	0.324606
+./c-50.rb	22401	0.000215	superlu	0.351464
+./c-51.rb	23196	0.000210	superlu	0.396770
+./c-52.rb	23948	0.000198	superlu	0.402330
+./c-53.rb	30235	0.000220	superlu	0.594211
+./c-54.rb	31793	0.000209	superlu	0.644491
+./c-56.rb	35910	0.000162	superlu	0.634958
+./c-57.rb	37833	0.000155	superlu	0.650093
+./c-60.rb	43640	0.000090	superlu	0.614847
+./c-61.rb	43618	0.000093	superlu	0.633981
+./c-62.rb	41731	0.000173	superlu	0.917746
+./c-65.rb	48066	0.000088	superlu	
+./c-66b.rb	49989	0.000110	superlu	
+./c-66.rb	49989	0.000110	superlu	
+./cbuckle_G.rb	13681	0.001409	superlu	3.827627
+./cbuckle.rb	13681	0.001844	superlu	5.958058
+./Chem97ZtZ.rb	2541	0.000767	superlu	0.063325
+./cond-mat-2003.rb	31163	0.000124	superlu	
+./cond-mat-2005.rb	40421	0.000108	superlu	
+./cond-mat.rb	16726	0.000170	superlu	
+./crystk01.rb	4875	0.006749	superlu	1.075601
+./crystk02.rb	13965	0.002519	superlu	6.195633
+./crystk03.rb	24696	0.001456	superlu	10.616433
+./crystm01.rb	4875	0.002319	superlu	0.625397
+./crystm02.rb	13965	0.000864	superlu	2.995611
+./crystm03.rb	24696	0.000499	superlu	6.036812
+./CurlCurl_0.rb	11083	0.000506	superlu	1.457237
+./cvxbqp1.rb	50000	0.000080	superlu	
+./cyl6.rb	13681	0.001945	superlu	3.743830
+./de2010.rb	24115	0.000100	superlu	
+./Dubcova1.rb	16129	0.000517	superlu	1.134297
+./ex10hs.rb	2548	0.004610	superlu	0.167436
+./ex10.rb	2410	0.004928	superlu	0.161661
+./ex12.rb	3973	0.002667	superlu	0.416805
+./ex13.rb	2568	0.005929	superlu	0.238872
+./ex14.rb	3251	0.003313	superlu	0.867180
+./ex15.rb	6867	0.001119	superlu	0.408918
+./ex32.rb	1159	0.004654	superlu	0.056356
+./ex33.rb	1733	0.003983	superlu	0.090722
+./ex3.rb	1821	0.008219	superlu	0.208381
+./ex4.rb	1601	0.006613	superlu	0.137863
+./ex9.rb	3363	0.004546	superlu	0.343490
+	superlu	
+	superlu	
+./filter2D_E.rb	1668	0.000600	superlu	0.016648
+./filter2D.rb	1668	0.002232	superlu	0.058118
+	superlu	
+	superlu	
+./flowmeter0_E.rb	9669	0.000103	superlu	0.083861
+./flowmeter0.rb	9669	0.000412	superlu	0.498151
+./fv1.rb	9604	0.000514	superlu	0.592468
+./fv2.rb	9801	0.000504	superlu	0.620154
+./fv3.rb	9801	0.000504	superlu	0.585173
+./geom.rb	7343	0.000221	superlu	
+./gridgena.rb	48962	0.000117	superlu	
+	superlu	
+	superlu	
+./gyro_k.rb	17361	0.001723	superlu	2.349077
+./gyro_m.rb	17361	0.000594	superlu	0.925099
+./gyro_M.rb	17361	0.000594	superlu	0.911391
+./gyro.rb	17361	0.001723	superlu	2.366178
+./hep-th.rb	8361	0.000225	superlu	
+./hi2010.rb	25016	0.000099	superlu	
+./jnlbrng1.rb	40000	0.000075	superlu	1.710248
+./Kuu.rb	7102	0.003443	superlu	0.860236
+	superlu	
+	superlu	
+./LF10000_E.rb	19998	0.000150	superlu	0.632780
+./LF10000_M.rb	19998	0.000150	superlu	0.597731
+./LF10000.rb	19998	0.000150	superlu	0.609597
+	superlu	
+	superlu	
+./LFAT5000_E.rb	19994	0.000125	superlu	0.489138
+./LFAT5000_M.rb	19994	0.000125	superlu	0.495653
+./LFAT5000.rb	19994	0.000125	superlu	0.486227
+./m3plates.rb	11107	0.000054	superlu	0.103315
+./meg4.rb	5860	0.000767	superlu	0.205261
+./mhd3200b.rb	3200	0.001051	superlu	0.075443
+./mhd4800b.rb	4800	0.000701	superlu	0.099111
+./minsurfo.rb	40806	0.000073	superlu	1.790230
+./MISKnowledgeMap.rb	2427	0.004840	superlu	
+./mouse_gene.rb	45101	0.007132	superlu	710.675831
+./msc01050.rb	1050	0.013699	superlu	0.115871
+./msc01440.rb	1440	0.011504	superlu	0.118385
+./msc04515.rb	4515	0.002507	superlu	0.505888
+./msc10848.rb	10848	0.005271	superlu	3.651981
+./msc23052.rb	23052	0.001108	superlu	4.259803
+./Muu.rb	7102	0.001757	superlu	0.486672
+./Na5.rb	5832	0.004579	superlu	7.989107
+./nasa1824.rb	1824	0.006167	superlu	0.243518
+./nasa2146.rb	2146	0.008077	superlu	0.272796
+./nasa2910.rb	2910	0.010463	superlu	0.621557
+./nasa4704.rb	4704	0.002473	superlu	0.743963
+./nd12k.rb	36000	0.005500	superlu	189.349078
+./nd6k.rb	18000	0.010672	superlu	52.826918
+./nemeth01.rb	9506	0.004064	superlu	0.732517
+./nemeth02.rb	9506	0.002237	superlu	0.415688
+./nemeth03.rb	9506	0.002237	superlu	0.418167
+./nemeth04.rb	9506	0.002237	superlu	0.404232
+./nemeth05.rb	9506	0.002237	superlu	0.415342
+./nemeth06.rb	9506	0.002237	superlu	0.414088
+./nemeth07.rb	9506	0.002237	superlu	0.422662
+./nemeth08.rb	9506	0.002237	superlu	0.401080
+./nemeth09.rb	9506	0.002241	superlu	0.400615
+./nemeth10.rb	9506	0.002274	superlu	0.416884
+./nemeth11.rb	9506	0.002312	superlu	0.406729
+./nemeth12.rb	9506	0.002525	superlu	0.532569
+./nemeth13.rb	9506	0.002678	superlu	0.580683
+./nemeth14.rb	9506	0.002798	superlu	0.432955
+./nemeth15.rb	9506	0.003039	superlu	0.585608
+./nemeth16.rb	9506	0.003301	superlu	0.635705
+./nemeth17.rb	9506	0.003536	superlu	0.695122
+./nemeth18.rb	9506	0.003899	superlu	0.673673
+./nemeth19.rb	9506	0.004580	superlu	0.591161
+./nemeth20.rb	9506	0.005430	superlu	0.651888
+./nemeth21.rb	9506	0.006547	superlu	0.809793
+./nemeth22.rb	9506	0.007571	superlu	1.020827
+./nemeth23.rb	9506	0.008390	superlu	1.112019
+./nemeth24.rb	9506	0.008389	superlu	1.154485
+./nemeth25.rb	9506	0.008417	superlu	1.124216
+./nemeth26.rb	9506	0.008417	superlu	1.114356
+./netscience.rb	1589	0.001086	superlu	
+./nh2010.rb	48837	0.000049	superlu	
+./nopoly.rb	10774	0.000352	superlu	0.249639
+./obstclae.rb	40000	0.000074	superlu	1.543909
+./olafu.rb	16146	0.001978	superlu	3.581488
+./OPF_10000.rb	43887	0.000133	superlu	
+./OPF_3754.rb	15435	0.000365	superlu	
+./OPF_6000.rb	29902	0.000186	superlu	
+./pdb1HYS.rb	36417	0.001652	superlu	20.952814
+./plat1919.rb	1919	0.004660	superlu	0.165008
+./plbuckle_G.rb	1282	0.004406	superlu	
+./plbuckle.rb	1282	0.009713	superlu	0.104917
+./Pres_Poisson.rb	14822	0.001663	superlu	1.929383
+./raefsky4.rb	19779	0.001723	superlu	5.966517
+	superlu	
+	superlu	
+./rail_1357_E.rb	1357	0.002811	superlu	0.040473
+./rail_1357.rb	1357	0.002808	superlu	0.034902
+	superlu	
+	superlu	
+./rail_20209_E.rb	20209	0.000195	superlu	0.404523
+./rail_20209.rb	20209	0.000195	superlu	0.356206
+	superlu	
+	superlu	
+./rail_5177_E.rb	5177	0.000754	superlu	0.121875
+./rail_5177.rb	5177	0.000753	superlu	0.113817
+./Reuters911_Day_01.rb	13332	0.000052	superlu	
+./Reuters911_Day_02.rb	13332	0.000078	superlu	
+./Reuters911_Day_03.rb	13332	0.000042	superlu	
+./Reuters911_Day_04.rb	13332	0.000035	superlu	
+./Reuters911_Day_05.rb	13332	0.000050	superlu	
+./Reuters911_Day_06.rb	13332	0.000045	superlu	
+./Reuters911_Day_07.rb	13332	0.000026	superlu	
+./Reuters911_Day_08.rb	13332	0.000019	superlu	
+./Reuters911_Day_09.rb	13332	0.000022	superlu	
+./Reuters911_Day_10.rb	13332	0.000026	superlu	
+./Reuters911_Day_11.rb	13332	0.000029	superlu	
+./Reuters911_Day_12.rb	13332	0.000016	superlu	
+./Reuters911_Day_13.rb	13332	0.000012	superlu	
+./Reuters911_Day_14.rb	13332	0.000015	superlu	
+./Reuters911_Day_15.rb	13332	0.000032	superlu	
+./Reuters911_Day_16.rb	13332	0.000028	superlu	
+./Reuters911_Day_17.rb	13332	0.000021	superlu	
+./Reuters911_Day_18.rb	13332	0.000019	superlu	
+./Reuters911_Day_19.rb	13332	0.000011	superlu	
+./Reuters911_Day_20.rb	13332	0.000017	superlu	
+./Reuters911_Day_21.rb	13332	0.000020	superlu	
+./Reuters911_Day_22.rb	13332	0.000020	superlu	
+./Reuters911_Day_23.rb	13332	0.000017	superlu	
+./Reuters911_Day_24.rb	13332	0.000013	superlu	
+./Reuters911_Day_25.rb	13332	0.000022	superlu	
+./Reuters911_Day_26.rb	13332	0.000018	superlu	
+./Reuters911_Day_27.rb	13332	0.000020	superlu	
+./Reuters911_Day_28.rb	13332	0.000021	superlu	
+./Reuters911_Day_29.rb	13332	0.000016	superlu	
+./Reuters911_Day_30.rb	13332	0.000017	superlu	
+./Reuters911_Day_31.rb	13332	0.000023	superlu	
+./Reuters911_Day_32.rb	13332	0.000018	superlu	
+./Reuters911_Day_33.rb	13332	0.000017	superlu	
+./Reuters911_Day_34.rb	13332	0.000017	superlu	
+./Reuters911_Day_35.rb	13332	0.000020	superlu	
+./Reuters911_Day_36.rb	13332	0.000022	superlu	
+./Reuters911_Day_37.rb	13332	0.000021	superlu	
+./Reuters911_Day_38.rb	13332	0.000017	superlu	
+./Reuters911_Day_39.rb	13332	0.000020	superlu	
+./Reuters911_Day_40.rb	13332	0.000018	superlu	
+./Reuters911_Day_41.rb	13332	0.000016	superlu	
+./Reuters911_Day_42.rb	13332	0.000013	superlu	
+./Reuters911_Day_43.rb	13332	0.000013	superlu	
+./Reuters911_Day_44.rb	13332	0.000017	superlu	
+./Reuters911_Day_45.rb	13332	0.000015	superlu	
+./Reuters911_Day_46.rb	13332	0.000014	superlu	
+./Reuters911_Day_47.rb	13332	0.000018	superlu	
+./Reuters911_Day_48.rb	13332	0.000016	superlu	
+./Reuters911_Day_49.rb	13332	0.000018	superlu	
+./Reuters911_Day_50.rb	13332	0.000018	superlu	
+./Reuters911_Day_51.rb	13332	0.000016	superlu	
+./Reuters911_Day_52.rb	13332	0.000020	superlu	
+./Reuters911_Day_53.rb	13332	0.000019	superlu	
+./Reuters911_Day_54.rb	13332	0.000019	superlu	
+./Reuters911_Day_55.rb	13332	0.000015	superlu	
+./Reuters911_Day_56.rb	13332	0.000022	superlu	
+./Reuters911_Day_57.rb	13332	0.000011	superlu	
+./Reuters911_Day_58.rb	13332	0.000012	superlu	
+./Reuters911_Day_59.rb	13332	0.000017	superlu	
+./Reuters911_Day_60.rb	13332	0.000016	superlu	
+./Reuters911_Day_61.rb	13332	0.000014	superlu	
+./Reuters911_Day_62.rb	13332	0.000011	superlu	
+./Reuters911_Day_63.rb	13332	0.000011	superlu	
+./Reuters911_Day_64.rb	13332	0.000013	superlu	
+./Reuters911_Day_65.rb	13332	0.000012	superlu	
+./Reuters911_Day_66.rb	13332	0.000013	superlu	
+./Reuters911.rb	13332	0.000833	superlu	
+./ri2010.rb	25181	0.000099	superlu	
+./s1rmq4m1.rb	5489	0.004756	superlu	1.708699
+./s1rmt3m1.rb	5489	0.003734	superlu	1.182652
+./s2rmq4m1.rb	5489	0.004756	superlu	1.874121
+./s2rmt3m1.rb	5489	0.003734	superlu	1.258223
+./s3rmq4m1.rb	5489	0.004756	superlu	1.826681
+./s3rmt3m1.rb	5489	0.003734	superlu	1.192524
+./s3rmt3m3.rb	5357	0.003712	superlu	0.845361
+./saylr4.rb	3564	0.001019	superlu	0.219585
+./ship_001.rb	34920	0.001919	superlu	21.410301
+./Si10H16.rb	17077	0.001531	superlu	59.083421
+./Si5H12.rb	19896	0.000958	superlu	77.406829
+./SiH4.rb	5041	0.003482	superlu	5.742345
+./SiNa.rb	5743	0.003101	superlu	7.255947
+./SiO.rb	33401	0.000606	superlu	203.991403
+./smt.rb	25710	0.002858	superlu	13.527094
+	superlu	
+./spiral.rb	1434	0.004781	superlu	0.109282
+./spmsrtls.rb	29995	0.000144	superlu	1.128393
+	superlu	
+./sts4098.rb	4098	0.002276	superlu	0.253856
+./t2dah_a.rb	11445	0.000716	superlu	0.928434
+	superlu	
+	superlu	
+./t2dah_e.rb	11445	0.000716	superlu	0.950147
+./t2dah_E.rb	11445	0.000716	superlu	0.959483
+./t2dah.rb	11445	0.000716	superlu	0.933402
+./t2dal_a.rb	4257	0.001151	superlu	0.223471
+./t2dal_bci_Abottom.rb	4257	0.000005	superlu	0.053745
+./t2dal_bci_Aside.rb	4257	0.000002	superlu	0.055946
+./t2dal_bci_Atop.rb	4257	0.000006	superlu	0.046997
+	superlu	
+	superlu	
+./t2dal_bci_E.rb	4257	0.000235	superlu	0.036456
+./t2dal_bci.rb	4257	0.001151	superlu	0.251790
+	superlu	
+	superlu	
+./t2dal_e.rb	4257	0.000235	superlu	0.037238
+./t2dal_E.rb	4257	0.000235	superlu	0.041287
+./t2dal.rb	4257	0.001151	superlu	0.249721
+./t3dl_a.rb	20360	0.000640	superlu	13.789440
+	superlu	
+	superlu	
+./t3dl_e.rb	20360	0.000049	superlu	0.150183
+./t3dl_E.rb	20360	0.000049	superlu	0.142862
+./t3dl.rb	20360	0.000640	superlu	13.828619
+./t520.rb	5563	0.004716	superlu	0.990469
+./ted_B.rb	10605	0.000690	superlu	0.238232
+./ted_B_unscaled.rb	10605	0.000690	superlu	0.238295
+./TEM27623_M.rb	27623	0.000306	superlu	12.124176
+./TEM27623.rb	27623	0.000306	superlu	16.910874
+./thread.rb	29736	0.002544	superlu	24.544041
+./torsion1.rb	40000	0.000074	superlu	1.502630
+./Trefethen_20000b.rb	19999	0.000718	superlu	171.679461
+./Trefethen_20000.rb	20000	0.000718	superlu	162.502610
+./Trefethen_2000.rb	2000	0.005488	superlu	1.418323
+./TSC_OPF_300.rb	9774	0.004347	superlu	0.751910
+./tube2.rb	21498	0.000994	superlu	2.137425
+./vanbody.rb	47072	0.000538	superlu	
+./vibrobox.rb	12328	0.001168	superlu	4.073283
+./vt2010.rb	32580	0.000073	superlu	
+./wathen100.rb	30401	0.000272	superlu	2.560880
+./wathen120.rb	36441	0.000227	superlu	3.142509

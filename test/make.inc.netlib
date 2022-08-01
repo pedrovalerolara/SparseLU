@@ -1,0 +1,22 @@
+CC		    = mcc
+
+BLAS_DIR    = /home/bsc15/bsc15784/lapack-3.8.0/BLAS
+CBLAS_DIR   = /home/bsc15/bsc15784/lapack-3.8.0/CBLAS
+LAPACK_DIR  = /home/bsc15/bsc15784/lapack-3.8.0
+LAPACKE_DIR = /home/bsc15/bsc15784/lapack-3.8.0/LAPACKE
+
+BLAS_LIB    = $(BLAS_DIR)   
+
+CBLAS_INC   = $(CBLAS_DIR)/include   
+CBLAS_LIB   = $(CBLAS_DIR)  
+
+LAPACK_LIB  = $(LAPACK_DIR)
+
+LAPACKE_INC = $(LAPACKE_DIR)/include 
+LAPACKE_LIB = $(LAPACKE_DIR) 
+
+LIBS        = -L$(BLAS_LIB) -L$(CBLAS_LIB) -L$(LAPACK_LIB) -L$(LAPACKE_LIB) -lm -lgfortran -llapacke -llapack -lcblas -lrefblas
+INC         = -I$(CBLAS_INC) -I$(LAPACKE_INC)
+
+#FLAGS   	= -O3 -Wall --ompss --instrumentation 
+FLAGS    	= -O3 -Wall --ompss-2  
